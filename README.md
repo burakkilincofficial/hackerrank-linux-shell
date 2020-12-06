@@ -1,2 +1,2 @@
 # hackerrank-linux-shell
-My java solutions in hackkerrank
+My linux-shell solutions in hackkerrank
